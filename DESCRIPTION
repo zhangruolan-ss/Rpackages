@@ -1,0 +1,11 @@
+Package: Writetools
+Type: Package
+Title: Split matrix or data.frame into multiple files(txt or csv)
+Version: 0.1.0
+Author: zzrrlll
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: If you have a matrix or data.frame with row and column names, (n rows and m columns), this package will help you split the matrix into m files by column, and write out m files which have the same rownames of your matrix into a txt or csv file, the file name is the column name.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
